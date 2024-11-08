@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/aclonica</item>
+        <item>@font/alkatra_semibold</item>
+        <item>@font/angkor</item>
+        <item>@font/berkshire_swash</item>
+        <item>@font/bevan</item>
+        <item>@font/bevan_italic</item>
+        <item>@font/bungee_shade</item>
+        <item>@font/hanalei_fill</item>
+        <item>@font/protest_strike</item>
+    </array>
+</resources>
